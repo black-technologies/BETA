@@ -473,7 +473,6 @@ a:hover {
     white-space:nowrap;
     overflow:hidden;    
     animation: type 7s steps(50, end);
-	animation-delay: 5s;
 }
 
 @keyframes type {
